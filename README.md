@@ -1,2 +1,2 @@
 # ILL-MUZIK
-DEP LINK- 
+DEP LINK- https://xitiz00.github.io/ILL-MUZIK/
